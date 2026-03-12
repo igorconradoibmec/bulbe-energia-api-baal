@@ -1,0 +1,14 @@
+openapi: 3.1.0
+info:
+  title: Bulbe Energia API
+  description: Backend do sistema de monitoramento de energia renovavel - BulbeShop
+  version: 0.1.0
+  license:
+    name: MIT
+
+servers:
+  - url: http://localhost:3000
+    description: Servidor local de desenvolvimento
+
+paths: {}
+# Endpoints serao adicionados progressivamente nas proximas sprints.
